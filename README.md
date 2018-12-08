@@ -1,4 +1,5 @@
 ***Skippy Problem using Ruby***
+Refer skippy.pdf for problem statement
 
 This program uses the Markov Chain algorithm to find the next state based on the previous state. However, since probability of next states provided previous state is equal in each case, I've not used probability vector but the simple random function to calculate next random state (direction here).
 
